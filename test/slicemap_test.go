@@ -1,4 +1,4 @@
-package testcode
+package test
 
 import (
 	"slicemap"
